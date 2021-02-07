@@ -1,0 +1,12 @@
+{
+   "manifest_version": 2,
+   "name": "Fix Chrome Underlining",
+   "version": "1.0",
+   "content_scripts": [ {
+      "css": [ "style.css" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "icons": {
+      "128": "icon128.png"
+   }
+}
