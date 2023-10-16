@@ -11,7 +11,12 @@ Original description from the store:
 > 
 > It requires permission for all websites to inject the CSS. The extension will never be sold or modified beyond this release.
 
-The only modification beyond the 1.0 version on the store is adding the ability to apply the extension to `file://` URLs.  I also plan to never update this repository beyond this 1.1 tag.
+Changes beyond the 1.0 version on the store:
+
+- 1.1: Ability to apply the extension to `file://` URLs.
+- 1.2: Don't allow sites to override this extension.
+
+I do not plan to update this repository further.
 
 A good article on why Chrome's default choice for underlining is wrong: [6 Reasons Why The Chrome Link Underline Change is Not So Hot](https://betatesting.com/blog/2018/04/27/chrome-link-underline-change/)
 
