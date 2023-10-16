@@ -15,6 +15,7 @@ Changes beyond the 1.0 version on the store:
 
 - 1.1: Ability to apply the extension to `file://` URLs.
 - 1.2: Don't allow sites to override this extension.
+- 1.3: Work correctly even when `text-decoration-skip-ink` is on elements other than `body`.
 
 I do not plan to update this repository further.
 
