@@ -3,7 +3,7 @@ fix-chrome-underlining
 
 Unpacked "Fix Chrome Underlining" extension from https://chrome.google.com/webstore/detail/fix-chrome-underlining/haebmhfkidapephfmkapgdoebgfhlldh (offered by https://r1ch.net).
 
-Useful for those who prefer to install extensions manually rather than directly from the chrome web store.
+Useful for those who prefer to install extensions manually rather than directly from the chrome web store.  The original extension has since been removed from the store - a good reminder of why you should prefer to install extensions manually anyway.
 
 Original description from the store:
 
